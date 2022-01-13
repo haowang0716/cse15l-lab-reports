@@ -1,6 +1,6 @@
 Hello World :)
 *Apple*
 **banana**
-#cherry 
-##watermelon
+# cherry 
+## watermelon
 > paper towel ~ ~
