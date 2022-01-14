@@ -9,5 +9,9 @@ Hello World :)
 > paper towel ~ ~
 
 ## quarantine essentials 
+
 > hand santizier
 > wipes 
+
+[image](dora.png)
+
